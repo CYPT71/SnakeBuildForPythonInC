@@ -11,12 +11,7 @@ python3 -m venv ./env
 
 source ./env/bin/activate
 
-# build the lib
-
-cd lib;python3 setup.py install
 
 # run it 
 
 python3 PureSnakeINPython.py
-
-(make sur to be at the root folder)
