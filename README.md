@@ -2,16 +2,19 @@
 
 # Create a python venv 
 
-```shell
+```bash
 python3 -m venv ./env
 
 ```
 
 # for Linux
 
+```bash
 source ./env/bin/activate
-
+```
 
 # run it 
 
+```bash
 python3 PureSnakeINPython.py
+```
